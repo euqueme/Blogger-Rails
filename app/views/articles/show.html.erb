@@ -1,5 +1,9 @@
 <h1><%= @article.title %></h1>
-<p><%= image_tag @article.image.url %></p>
+<p>
+  <% if @article.image.exists? %>
+      <%= image_tag @article.image.url %><br/>
+  <% end %>
+</p>
 <p><%= @article.body %></p>
 <%= link_to "delete", article_path(@article), method: :delete, data: {confirm: "Really delete the article?"}
  %>
