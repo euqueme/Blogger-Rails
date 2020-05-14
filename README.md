@@ -42,27 +42,27 @@ Start server with:
 Open http://localhost:3000/ in your browser.
 
 ### Articles New page
-Tag New within Articles New page
+This is THE article's New page (THE tag New form is within this page)
 ![screenshot](app/assets/images/blogger2_new.png)
 
 ### Articles Show page
-Tag Show within Articles show page
+This is THE article's show page (THE tag show page is within this page)
 ![screenshot](app/assets/images/blogger2_show.png)
 
 ### Articles Edit page
-Tag Edit within Articles Edit page
+This is THE article's Edit page (THE tag Edit form is within this page)
 ![screenshot](app/assets/images/blogger2_article_edit.png)
 
 ### Tag Search
-click on any tag within an Article Show page
+Click on any tag within AN article Show page
 ![screenshot](app/assets/images/blogger2_tag_search.png)
 
 ### Comments New 
-within Articles Show page
+THE comment's NEW form is within THE article's Show page
 ![screenshot](app/assets/images/blogger2_comments_new.png)
 
 ### Comments Show
-within Articles Show page
+THE comment's Show page is Within THE article's Show page
 ![screenshot](app/assets/images/blogger2_comments_show.png)
 
 
@@ -72,7 +72,7 @@ within Articles Show page
 
 ## Automated Test
 
-> there are no automated tests for this project yet
+> There are no automated tests for this project yet
 
 ## Author
 
